@@ -1,4 +1,4 @@
-# Braille Pattern Recognition 
+# Oculens - Braille Pattern Recognition 
 
 Braille Pattern Recognition using using Digital Image Processing Techniques is implemented in MATLAB
 
